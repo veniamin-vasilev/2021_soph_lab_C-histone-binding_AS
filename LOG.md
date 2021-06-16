@@ -22,11 +22,15 @@
 [Страничка белка капсида DENV С из NCBI](https://www.ncbi.nlm.nih.gov/protein/159024809). Его последовательность остатков аминокислот: MNNQRKKAKNTPFNMLKRERNRVSTVQQLTKRFSLGMLQGRGPLKLFMALVAFLRFLTIPPTAGILKRWGTIKKSKAINVLRGFRKEIGRMLNILNRRRR (100 ао). <br>
 [3D-структура белка DENV C из PDB](https://www.rcsb.org/structure/1R6R). Белок состоит из двух альфа-спиралей. Его id в PDB - 1R6R. <br>
 
-<p> В статье Colpitts TM, Barthel S, Wang P, Fikrig E. Dengue virus capsid protein binds core histones and inhibits nucleosome formation in human liver cells. PLoS One. 2011;6(9):e24365. doi: 10.1371/journal.pone.0024365. Epub 2011 Sep 1. PMID: 21909430; PMCID: PMC3164731. ([или с сайта Plos one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024365)) после упоминания о том, что капсидный белок DENV С взаимодействует с альфа-импортином для попадания в ядро, приводится ссылка на соответствующую [статью](https://www.sciencedirect.com/science/article/abs/pii/S0006291X09016659), в которой исследуется капсидный белок С, но организма вируса Западного Нила (West Nile virus) - WNV C. </p>
-<p> Вирус Западного Нила - тоже вид вирусов семейства Flaviviridae, возбудитель не до конца изученной лихорадки Западного Нила. Генетическая информация хранится в линейной молекуле РНК. Основными хозяевами являются птицы, вирус в них попадает посредством передачи комарами вида Culex. Его структура похоже на таковую у вируса Денге. Структурный белок С является капсидным белком, РНК связывает его 105 аминокислотных остатков для образования нуклеокапсида, то есть белок упаковывает незрелые РНК в вирионы. </p>
+В статье Colpitts TM, Barthel S, Wang P, Fikrig E. Dengue virus capsid protein binds core histones and inhibits nucleosome formation in human liver cells. PLoS One. 2011;6(9):e24365. doi: 10.1371/journal.pone.0024365. Epub 2011 Sep 1. PMID: 21909430; PMCID: PMC3164731. ([или с сайта Plos one](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024365)) после упоминания о том, что капсидный белок DENV С взаимодействует с альфа-импортином для попадания в ядро, приводится ссылка на соответствующую [статью](https://www.sciencedirect.com/science/article/abs/pii/S0006291X09016659), в которой исследуется капсидный белок С, но организма вируса Западного Нила (West Nile virus) - WNV C. <br>
+Вирус Западного Нила - тоже вид вирусов семейства Flaviviridae, возбудитель не до конца изученной лихорадки Западного Нила. Генетическая информация хранится в линейной молекуле РНК. Основными хозяевами являются птицы, вирус в них попадает посредством передачи комарами вида Culex. Его структура похоже на таковую у вируса Денге. Структурный белок С является капсидным белком, РНК связывает его 105 аминокислотных остатков для образования нуклеокапсида, то есть белок упаковывает незрелые РНК в вирионы. <br>
 [Страничка белка капсида WNV С из NCBI](https://www.ncbi.nlm.nih.gov/protein/27735298). Его последовательность остатков аминокислот: MSKKPGGPGKNRAVNMLKRGMPRGLSLIGLKRAMLSLIDGKGPIRFVLALLAFFRFTAIAPTRAVLDRWRGVNKQTAMKHLLSFKKELGTLTSAINRRSTKQKKR (105 ао) <br>
 
 При сравнении этих двух последовательностей с помощью двойного выравнивания, получилось: <br>
 ![image](https://user-images.githubusercontent.com/82018764/122210581-78b9b580-ceae-11eb-8bd1-937b2af0c12f.png) <br>
 <p align="right"> 11.06.2021. </p>
+
+
+
+
 
